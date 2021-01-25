@@ -39,4 +39,4 @@ stages:
     pool:
       vmImage: 'ubuntu-latest'
     steps:
-      - script: echo Now trigger that fancy security tool execution
+      - script: echo Now trigger that fancy security tool execution...
